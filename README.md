@@ -7,7 +7,7 @@
 # Bienvenue à tous !
 
 Je suis ravi de vous accueillir sur ce guide, qui a pour objectif d’aider les
-passionnés de cybersécurité à naviguer dans les énigmes de OverTheWire.
+passionnés de cybersécurité à naviguer dans les énigmes de overthewire.org
 
 Mon intention n'est pas de fournir les réponses directes aux challenges,
 mais plutôt de vous guider à travers le processus de réflexion et les démarches nécessaires
